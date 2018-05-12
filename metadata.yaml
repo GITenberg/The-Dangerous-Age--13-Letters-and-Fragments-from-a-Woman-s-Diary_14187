@@ -1,0 +1,41 @@
+_repo: The-Dangerous-Age--13-Letters-and-Fragments-from-a-Woman-s-Diary_14187
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Prévost, Marcel
+    aliases:
+    - Marcel Prévost
+    - Prevost, Marcel
+    birthdate: 1862
+    deathdate: 1941
+    gutenberg_agent_id: '4089'
+    url: http://www.gutenberg.org/2009/agents/4089
+    wikipedia: http://en.wikipedia.org/wiki/Marcel_Prévost
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Michaëlis, Karin
+    alias: Michaelis, Karin
+    birthdate: 1872
+    deathdate: 1950
+    gutenberg_agent_id: '5401'
+    url: http://www.gutenberg.org/2009/agents/5401
+description: ''
+gutenberg_issued: '2004-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14187'
+  lccn: '11022760'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Fiction'
+- !lcsh 'Epistolary fiction'
+- !lcc 'PT'
+- !lcsh 'Midlife crisis -- Fiction'
+title: 'The Dangerous Age: Letters and Fragments from a Woman''s Diary'
+url: http://www.gutenberg.org/ebooks/14187
